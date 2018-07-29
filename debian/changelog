@@ -1,0 +1,5 @@
+helloworld-qt (1.0.0-1.1) testing; urgency=medium
+
+  * First release.
+
+ -- Louis Paternault <spalax+python@gresille.org>  Sun, 29 Jul 2018 21:21:19 +0200

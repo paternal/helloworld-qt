@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-"""Installateur"""
-
 from setuptools import setup, find_packages
 
 setup(
